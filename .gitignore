@@ -1,0 +1,9 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# WebDrivers and their Logs
+chromedriver.exe
+geckodriver.exe
+geckodriver.log
