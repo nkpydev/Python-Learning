@@ -1,13 +1,15 @@
-# Python Code Snippets
+# Python Code Snippets #
 
-## Author: Nitin K (nkpydev)
+## Author: Nitin K (nkpydev) ##
 
-### GitHub: https://github.com/nkpydev
-
-#### Purpose:
-
-> While I am learning Python, I felt I should have few basic examples stacked at one place, so as to not go thr' all webpages [help, Github, Stackoverflow and all other helpful sources] to look into, if needed.
-
+### Purpose:
 > I am trying to create this mini snippet repository so as to have examples at hand with ease whenever I feel need to take a glance for some reference.
-
 > Hopefully someone else also finds this helpful, if they stumble upon this source.
+
+### Inspiration:
+1. Python Docs
+2. Google Search
+3. StackoverFlow Search
+4. RealPython
+5. GeeksforGeeks
+6. PythonSpot
