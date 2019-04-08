@@ -7,7 +7,7 @@
 > Hopefully someone else also finds this helpful, if they stumble upon this source.
 
 ### Motivation:
-> The Zen of Python, by Tim Peters
+The Zen of Python, by Tim Peters
 
 > Beautiful is better than ugly.
 
