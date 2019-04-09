@@ -2,7 +2,7 @@
 
 Set _object_ is an unordered collection of distinct hashable objects. Which means all entries in a set are unique.
 
-## Further Notes:
+## 
 **Where can they be used?**
 > To remove duplicates from a sequence.
 > Mathematical operations such as intersection, union, difference, and symmetric difference.
