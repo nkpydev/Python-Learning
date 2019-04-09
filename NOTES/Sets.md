@@ -29,7 +29,7 @@ Set _object_ is an unordered collection of distinct hashable objects. Which mean
 > And for same reason, sets cannot be used as either _dictionary key_ or as an _element of another set_.
 
 #### frozenset:
-> frozenset if immutable - meaning they cannot be modified.
+> frozenset is immutable - meaning they cannot be modified.
 
 > _So it will have a hash value._
 
