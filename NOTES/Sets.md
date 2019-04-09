@@ -21,11 +21,16 @@ Set _object_ is an unordered collection of distinct hashable objects. Which mean
 
 #### set:
 > Set type is mutable - meaning they can be modified.
+
 > You can use methods like _add()_, _remove()_
+
 > _Since set is mutable it has not hash value._
+
 > And for same reason, sets cannot be used as either _dictionary key_ or as an _element of another set_.
 
 #### frozenset:
 > frozenset if immutable - meaning they cannot be modified.
+
 > _So it will have a hash value._
+
 > And for this reason, we can use it as a _dictionary key_ or as an _element of another set_.
