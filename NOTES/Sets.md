@@ -14,8 +14,8 @@ Set _object_ is an unordered collection of distinct hashable objects. Which mean
 
 
 ### Types of Sets:
-1. set
-2. frozen set
+1. **set**
+2. **frozen set**
 
 **Difference between them**:
 
