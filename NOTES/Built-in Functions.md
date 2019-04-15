@@ -3,9 +3,10 @@
 Python interpreter has a numerous built-in functions and types into it, that are ready to use.
 
 List of those:
-
+-----------------
 Built-in Functions
-|1|2|3|4|
+-----------------
+| | | | |
 |---|---|---|---|
 abs()|delattr()|hash()|memoryview()
 set()|all()|dict()|help()
@@ -24,4 +25,4 @@ list()|range()|vars()|classmethod()
 getattr()|locals()|repr()|zip()
 compile()|globals()|map()|reversed()
 \_\_import\_\_()|complex()|hasattr()|max()
-round()|
+round()| | | 
