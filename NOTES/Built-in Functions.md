@@ -21,3 +21,4 @@ chr()|frozenset()|list()|range()|vars()
 classmethod()|getattr()|locals()|repr()|zip()
 compile()|globals()|map()|reversed()|\_\_import\_\_()
 complex()|hasattr()|max()|round()
+|----------------|----------------|----------------|----------------|
