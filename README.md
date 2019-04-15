@@ -1,45 +1,30 @@
 # Python Learning #
 
 ### Purpose:
-I am trying to create this mini notes + snippet repository so as to have notes with examples at hand with ease whenever I feel need to take a glance for some reference.
-
-Hopefully someone else also finds this helpful, if they stumble upon this source.
+I am trying to create a guide to learn Python, on own.
 
 ### Motivation:
-I started learning Python after I stumbled upon a pyautogui code from a fellow github member @[unix121](https://github.com/unix121), and directly wanted to learn pyautogui module - lol.. that was July/August 2018.
+I am not a programmer by profession, so lost touch with whatever C, C++, Java I had learnt in my graduation days.
 
-I am still learning new things - everyday.
+August 2018, I somehow stumbled upon an pyautogui automation script and I realised how long it has been since I actually scripted anything.
 
-This repository is my collection of notes and examples of concepts that I learnt.
+Here I will have to accept one very important mistake in my student life - I never ever went out of my lazy way to understand how things are structured, how they work.
 
-I am not a programmer by profession, but I am loving Python.
+I was happy to understand the flow of program.
 
-I intend to learn as much as I can about this awesome language.
+Never realised as a student - 
+-   understanding what data types are
+-   how are they stored in memory
+-   what is compiler/interpreter
 
+While I am writing all these points, I am realising how bad I was till this point.
 
-------------------------------
-The Zen of Python, by Tim Peters
+Now that I have almost 10 years of actual work experience, I understand how important it is to know things in-and-out.
 
-- Beautiful is better than ugly.
-- Explicit is better than implicit.
-- Simple is better than complex.
-- Complex is better than complicated.
-- Flat is better than nested.
-- Sparse is better than dense.
-- Readability counts.
-- Special cases aren't special enough to break the rules.
-- Although practicality beats purity.
-- Errors should never pass silently.
-- Unless explicitly silenced.
-- In the face of ambiguity, refuse the temptation to guess.
-- There should be one-- and preferably only one --obvious way to do it.
-- Although that way may not be obvious at first unless you're Dutch.
-- Now is better than never.
-- Although never is often better than *right* now.
-- If the implementation is hard to explain, it's a bad idea.
-- If the implementation is easy to explain, it may be a good idea.
-- Namespaces are one honking great idea -- let's do more of those!
-----------------------
+I don't intend to upgrade myself for better opportunity, but to feel better myself. That I know something better.
+
+This is my attempt to understand and re-write what is already there on Internet, but in my own words, in my own way.
+
 
 ### Inspiration:
 1. [Python Docs](https://docs.python.org/3.7/library/index.html)
