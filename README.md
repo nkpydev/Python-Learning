@@ -50,6 +50,12 @@ The Zen of Python, by Tim Peters
 
 and many more... 
 
+### TO-DO:
+-   Add more info on other topics
+-   Re-arrange everything accordingly
+-   Create a new Generic View/Index kind of Page to start viewing everything.
+-   Link all relevent Note Topics to appropriate examples.
+
 
 ### Author:
 [nkpydev](https://github.com/nkpydev)
