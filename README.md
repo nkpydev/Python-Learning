@@ -1,7 +1,7 @@
-# Python Code Snippets #
+# Python Learning #
 
 ### Purpose:
-I am trying to create this mini snippet repository so as to have examples at hand with ease whenever I feel need to take a glance for some reference.
+I am trying to create this mini notes + snippet repository so as to have notes with examples at hand with ease whenever I feel need to take a glance for some reference.
 
 Hopefully someone else also finds this helpful, if they stumble upon this source.
 
@@ -10,7 +10,7 @@ I started learning Python after I stumbled upon a pyautogui code from a fellow g
 
 I am still learning new things - everyday.
 
-This repository is my collection of examples of concepts that I learnt.
+This repository is my collection of notes and examples of concepts that I learnt.
 
 I am not a programmer by profession, but I am loving Python.
 
