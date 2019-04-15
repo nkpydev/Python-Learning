@@ -4,7 +4,7 @@ Python interpreter has a numerous built-in functions and types into it, that are
 
 List of those:
 
-| Built-in Functions|
+Built-in Functions
 |||||
 |---|---|---|---|
 abs()|delattr()|hash()|memoryview()
